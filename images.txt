@@ -17,3 +17,5 @@
 rabbitmq:3.8.8-management
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
+docker:latest
+maven:3.8.6-openjdk-17
