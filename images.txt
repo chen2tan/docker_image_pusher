@@ -20,3 +20,4 @@ nginx:latest
 --platform=linux/arm64 xiaoyaliu/alist
 docker:latest
 maven:3.8.6-openjdk-8
+docker:19.03.0-dind
