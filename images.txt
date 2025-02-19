@@ -14,10 +14,11 @@
 #docker.elastic.co/elasticsearch/elasticsearch:7.17.0
 #percona:8.0.19-10
 #dgtlmoon/changedetection.io
-rabbitmq:3.8.8-management
-nginx:latest
+#rabbitmq:3.8.8-management
+#nginx:latest
+tomcat:8.5.41-jre8-alpine
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
-docker:latest
-maven:3.8.6-openjdk-8
-docker:19.03.0-dind
+#docker:latest
+#maven:3.8.6-openjdk-8
+#docker:19.03.0-dind
