@@ -24,4 +24,3 @@ tomcat:8.5.41-jre8-alpine
 #docker:19.03.0-dind
 #rancher/rancher
 rancher/rancher-agent:v2.10.3
-cattle-system/cattle-cluster-agent-69ff9749b6-bf9xv
