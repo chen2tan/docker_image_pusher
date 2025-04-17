@@ -22,5 +22,5 @@ tomcat:8.5.41-jre8-alpine
 #docker:latest
 #maven:3.8.6-openjdk-8
 #docker:19.03.0-dind
-#rancher/rancher
-rancher/rancher-agent:v2.10.3
+rancher/rancher
+#rancher/rancher-agent:v2.10.3
